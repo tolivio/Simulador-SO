@@ -13,7 +13,6 @@ QUANTUM_PADRAO = 4
 PAGINA_PADRAO = 256
 MOLDURAS_PADRAO = 64
 DISPOSITIVOS_PADRAO = {"disk": 10, "tty": 2}
-# =========================================================
 
 # -------------------------- Estados e Estruturas --------------------------
 
