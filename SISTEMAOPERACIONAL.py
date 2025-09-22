@@ -7,7 +7,6 @@ from collections import deque
 from typing import Optional, List, Dict
 import argparse, json
 
-# ======== PARÂMETROS PADRÃO (editar se necessário) ========
 ESCALONADOR_PADRAO = "fcfs"   # "fcfs", "rr", "prio"
 QUANTUM_PADRAO = 4
 PAGINA_PADRAO = 256
